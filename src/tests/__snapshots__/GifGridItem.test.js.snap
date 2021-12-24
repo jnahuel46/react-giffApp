@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGridItem should  1`] = `
+<div
+  className="animate__animated animate__bounceInLeft"
+>
+  <img />
+  <p />
+</div>
+`;

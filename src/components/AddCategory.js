@@ -24,6 +24,7 @@ export const AddCategory = ( { setCategories }) => {// recibo el setcategories c
 
     return (
         <form onSubmit={ handleSubmit }>
+            <p> { inputValue } </p>
             <input type="text"
             value= { inputValue }
             onChange={ hanldeInputChange }
